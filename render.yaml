@@ -1,0 +1,19 @@
+# Render settings for Spin & Solve (used when you create the service as a Blueprint;
+# for an existing Web Service, copy the build/start commands into Settings → Build & Deploy).
+services:
+  - type: web
+    name: spin-solve
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      # Keeps students & questions when Render restarts (free database from upstash.com).
+      # Render asks for these values when you create the Blueprint; leave empty to skip for now.
+      - key: UPSTASH_REDIS_REST_URL
+        sync: false
+      - key: UPSTASH_REDIS_REST_TOKEN
+        sync: false

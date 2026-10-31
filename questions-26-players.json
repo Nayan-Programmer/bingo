@@ -1,0 +1,2866 @@
+{
+ "round1": [
+  {
+   "question": "Which of these letters comes last in the alphabet: E, G, B, J?",
+   "options": [
+    "E",
+    "G",
+    "B",
+    "J"
+   ],
+   "answer": "J",
+   "explanation": "J is letter number 10, later than the others."
+  },
+  {
+   "question": "Which letter comes 4 places after A?",
+   "options": [
+    "G",
+    "E",
+    "J",
+    "C"
+   ],
+   "answer": "E",
+   "explanation": "Counting on from A: B (1), C (2), D (3), E (4)."
+  },
+  {
+   "question": "Which letter comes right before Z?",
+   "options": [
+    "W",
+    "X",
+    "Y",
+    "Z"
+   ],
+   "answer": "Y",
+   "explanation": "The alphabet runs Y, Z — so Y comes before Z."
+  },
+  {
+   "question": "Which letter is number 4 in the alphabet?",
+   "options": [
+    "F",
+    "G",
+    "D",
+    "A"
+   ],
+   "answer": "D",
+   "explanation": "Counting from A, letter number 4 is D."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: Z, E, K, D?",
+   "options": [
+    "Z",
+    "E",
+    "K",
+    "D"
+   ],
+   "answer": "Z",
+   "explanation": "Z is letter number 26, later than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: U, I, H, B?",
+   "options": [
+    "U",
+    "I",
+    "H",
+    "B"
+   ],
+   "answer": "U",
+   "explanation": "U is letter number 21, later than the others."
+  },
+  {
+   "question": "How many letters are there between L and S?",
+   "options": [
+    "5",
+    "1",
+    "6",
+    "2"
+   ],
+   "answer": "6",
+   "explanation": "Between L and S: M, N, O, P, Q, R — that is 6."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: X, Y, Z, B?",
+   "options": [
+    "X",
+    "Y",
+    "Z",
+    "B"
+   ],
+   "answer": "B",
+   "explanation": "B is letter number 2, earlier than the others."
+  },
+  {
+   "question": "Which pair of letters is in alphabetical order?",
+   "options": [
+    "R, N",
+    "L, B",
+    "B, T",
+    "R, G"
+   ],
+   "answer": "B, T",
+   "explanation": "B comes before T in the alphabet; the other pairs are the wrong way round."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: G, L, Q, A?",
+   "options": [
+    "G",
+    "L",
+    "Q",
+    "A"
+   ],
+   "answer": "Q",
+   "explanation": "Q is letter number 17, later than the others."
+  },
+  {
+   "question": "Which letter comes 6 places before G?",
+   "options": [
+    "G",
+    "F",
+    "A",
+    "C"
+   ],
+   "answer": "A",
+   "explanation": "Counting back from G: F (1), E (2), D (3), C (4), B (5), A (6)."
+  },
+  {
+   "question": "Which letter comes 7 places before X?",
+   "options": [
+    "O",
+    "Q",
+    "S",
+    "W"
+   ],
+   "answer": "Q",
+   "explanation": "Counting back from X: W (1), V (2), U (3), T (4), S (5), R (6), Q (7)."
+  },
+  {
+   "question": "Which letter comes 2 places after A?",
+   "options": [
+    "H",
+    "C",
+    "E",
+    "A"
+   ],
+   "answer": "C",
+   "explanation": "Counting on from A: B (1), C (2)."
+  },
+  {
+   "question": "Which letter comes right after S?",
+   "options": [
+    "U",
+    "R",
+    "S",
+    "T"
+   ],
+   "answer": "T",
+   "explanation": "The alphabet runs S, T — so T follows S."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: R, O, A, M?",
+   "options": [
+    "R",
+    "O",
+    "A",
+    "M"
+   ],
+   "answer": "R",
+   "explanation": "R is letter number 18, later than the others."
+  },
+  {
+   "question": "Which letter comes right after C?",
+   "options": [
+    "C",
+    "B",
+    "D",
+    "E"
+   ],
+   "answer": "D",
+   "explanation": "The alphabet runs C, D — so D follows C."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: V, W, C, O?",
+   "options": [
+    "V",
+    "W",
+    "C",
+    "O"
+   ],
+   "answer": "W",
+   "explanation": "W is letter number 23, later than the others."
+  },
+  {
+   "question": "How many letters are there between J and O?",
+   "options": [
+    "4",
+    "1",
+    "2",
+    "9"
+   ],
+   "answer": "4",
+   "explanation": "Between J and O: K, L, M, N — that is 4."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between S and D?",
+   "options": [
+    "K",
+    "I",
+    "M",
+    "J"
+   ],
+   "answer": "K",
+   "explanation": "S is 19 and D is 4, so the middle one is number 11: K."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between U and X?",
+   "options": [
+    "V",
+    "S",
+    "W",
+    "T"
+   ],
+   "answer": "V",
+   "explanation": "U is 21 and X is 24, so the middle one is number 22: V."
+  },
+  {
+   "question": "Which letter comes 7 places before U?",
+   "options": [
+    "M",
+    "P",
+    "N",
+    "S"
+   ],
+   "answer": "N",
+   "explanation": "Counting back from U: T (1), S (2), R (3), Q (4), P (5), O (6), N (7)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: P, V, H, W?",
+   "options": [
+    "P",
+    "V",
+    "H",
+    "W"
+   ],
+   "answer": "W",
+   "explanation": "W is letter number 23, later than the others."
+  },
+  {
+   "question": "Which letter comes 2 places before S?",
+   "options": [
+    "T",
+    "L",
+    "Q",
+    "R"
+   ],
+   "answer": "Q",
+   "explanation": "Counting back from S: R (1), Q (2)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: S, Z, E, K?",
+   "options": [
+    "S",
+    "Z",
+    "E",
+    "K"
+   ],
+   "answer": "E",
+   "explanation": "E is letter number 5, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: X, I, V, G?",
+   "options": [
+    "X",
+    "I",
+    "V",
+    "G"
+   ],
+   "answer": "X",
+   "explanation": "X is letter number 24, later than the others."
+  },
+  {
+   "question": "Which letter comes 5 places after Q?",
+   "options": [
+    "P",
+    "T",
+    "V",
+    "Z"
+   ],
+   "answer": "V",
+   "explanation": "Counting on from Q: R (1), S (2), T (3), U (4), V (5)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: B, N, C, M?",
+   "options": [
+    "B",
+    "N",
+    "C",
+    "M"
+   ],
+   "answer": "B",
+   "explanation": "B is letter number 2, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 5 places after S?",
+   "options": [
+    "Z",
+    "U",
+    "V",
+    "X"
+   ],
+   "answer": "X",
+   "explanation": "Counting on from S: T (1), U (2), V (3), W (4), X (5)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: T, C, H, A?",
+   "options": [
+    "T",
+    "C",
+    "H",
+    "A"
+   ],
+   "answer": "T",
+   "explanation": "T is letter number 20, later than the others."
+  },
+  {
+   "question": "Which letter comes right after U?",
+   "options": [
+    "Y",
+    "T",
+    "V",
+    "W"
+   ],
+   "answer": "V",
+   "explanation": "The alphabet runs U, V — so V follows U."
+  },
+  {
+   "question": "Which letter is number 16 in the alphabet?",
+   "options": [
+    "J",
+    "P",
+    "V",
+    "U"
+   ],
+   "answer": "P",
+   "explanation": "Counting from A, letter number 16 is P."
+  },
+  {
+   "question": "Which letter comes 5 places before U?",
+   "options": [
+    "V",
+    "K",
+    "J",
+    "P"
+   ],
+   "answer": "P",
+   "explanation": "Counting back from U: T (1), S (2), R (3), Q (4), P (5)."
+  },
+  {
+   "question": "Which letter comes 6 places after L?",
+   "options": [
+    "R",
+    "U",
+    "W",
+    "X"
+   ],
+   "answer": "R",
+   "explanation": "Counting on from L: M (1), N (2), O (3), P (4), Q (5), R (6)."
+  },
+  {
+   "question": "Which letter comes right after Q?",
+   "options": [
+    "R",
+    "S",
+    "O",
+    "P"
+   ],
+   "answer": "R",
+   "explanation": "The alphabet runs Q, R — so R follows Q."
+  },
+  {
+   "question": "How many letters are there between P and A?",
+   "options": [
+    "18",
+    "14",
+    "13",
+    "9"
+   ],
+   "answer": "14",
+   "explanation": "Between P and A: B, C, D, E, F, G, H, I, J, K, L, M, N, O — that is 14."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: W, P, E, S?",
+   "options": [
+    "W",
+    "P",
+    "E",
+    "S"
+   ],
+   "answer": "E",
+   "explanation": "E is letter number 5, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: B, C, E, F?",
+   "options": [
+    "B",
+    "C",
+    "E",
+    "F"
+   ],
+   "answer": "F",
+   "explanation": "F is letter number 6, later than the others."
+  },
+  {
+   "question": "Which letter comes 7 places before V?",
+   "options": [
+    "O",
+    "J",
+    "Q",
+    "P"
+   ],
+   "answer": "O",
+   "explanation": "Counting back from V: U (1), T (2), S (3), R (4), Q (5), P (6), O (7)."
+  },
+  {
+   "question": "Which letter comes 4 places after O?",
+   "options": [
+    "T",
+    "R",
+    "U",
+    "S"
+   ],
+   "answer": "S",
+   "explanation": "Counting on from O: P (1), Q (2), R (3), S (4)."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between Z and M?",
+   "options": [
+    "S",
+    "Q",
+    "T",
+    "V"
+   ],
+   "answer": "S",
+   "explanation": "Z is 26 and M is 13, so the middle one is number 19: S."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: H, F, X, D?",
+   "options": [
+    "H",
+    "F",
+    "X",
+    "D"
+   ],
+   "answer": "D",
+   "explanation": "D is letter number 4, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 3 places before W?",
+   "options": [
+    "S",
+    "W",
+    "T",
+    "P"
+   ],
+   "answer": "T",
+   "explanation": "Counting back from W: V (1), U (2), T (3)."
+  },
+  {
+   "question": "Which letter comes 6 places after B?",
+   "options": [
+    "H",
+    "J",
+    "N",
+    "L"
+   ],
+   "answer": "H",
+   "explanation": "Counting on from B: C (1), D (2), E (3), F (4), G (5), H (6)."
+  },
+  {
+   "question": "Which letter comes 3 places after F?",
+   "options": [
+    "L",
+    "H",
+    "I",
+    "K"
+   ],
+   "answer": "I",
+   "explanation": "Counting on from F: G (1), H (2), I (3)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: C, O, U, J?",
+   "options": [
+    "C",
+    "O",
+    "U",
+    "J"
+   ],
+   "answer": "C",
+   "explanation": "C is letter number 3, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: Y, Z, K, C?",
+   "options": [
+    "Y",
+    "Z",
+    "K",
+    "C"
+   ],
+   "answer": "Z",
+   "explanation": "Z is letter number 26, later than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: X, E, I, Z?",
+   "options": [
+    "X",
+    "E",
+    "I",
+    "Z"
+   ],
+   "answer": "Z",
+   "explanation": "Z is letter number 26, later than the others."
+  },
+  {
+   "question": "Which letter comes 3 places before P?",
+   "options": [
+    "I",
+    "P",
+    "O",
+    "M"
+   ],
+   "answer": "M",
+   "explanation": "Counting back from P: O (1), N (2), M (3)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: Q, K, D, N?",
+   "options": [
+    "Q",
+    "K",
+    "D",
+    "N"
+   ],
+   "answer": "Q",
+   "explanation": "Q is letter number 17, later than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: A, R, B, S?",
+   "options": [
+    "A",
+    "R",
+    "B",
+    "S"
+   ],
+   "answer": "A",
+   "explanation": "A is letter number 1, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 4 places before Z?",
+   "options": [
+    "Q",
+    "R",
+    "S",
+    "V"
+   ],
+   "answer": "V",
+   "explanation": "Counting back from Z: Y (1), X (2), W (3), V (4)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: F, D, E, B?",
+   "options": [
+    "F",
+    "D",
+    "E",
+    "B"
+   ],
+   "answer": "F",
+   "explanation": "F is letter number 6, later than the others."
+  },
+  {
+   "question": "How many letters are there between X and Q?",
+   "options": [
+    "10",
+    "11",
+    "6",
+    "2"
+   ],
+   "answer": "6",
+   "explanation": "Between X and Q: R, S, T, U, V, W — that is 6."
+  },
+  {
+   "question": "How many letters are there between Q and F?",
+   "options": [
+    "6",
+    "14",
+    "10",
+    "12"
+   ],
+   "answer": "10",
+   "explanation": "Between Q and F: G, H, I, J, K, L, M, N, O, P — that is 10."
+  },
+  {
+   "question": "Which letter comes 7 places after P?",
+   "options": [
+    "Z",
+    "T",
+    "R",
+    "W"
+   ],
+   "answer": "W",
+   "explanation": "Counting on from P: Q (1), R (2), S (3), T (4), U (5), V (6), W (7)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: H, M, R, F?",
+   "options": [
+    "H",
+    "M",
+    "R",
+    "F"
+   ],
+   "answer": "F",
+   "explanation": "F is letter number 6, earlier than the others."
+  },
+  {
+   "question": "How many letters are there between F and I?",
+   "options": [
+    "4",
+    "5",
+    "7",
+    "2"
+   ],
+   "answer": "2",
+   "explanation": "Between F and I: G, H — that is 2."
+  },
+  {
+   "question": "Which letter comes right after F?",
+   "options": [
+    "F",
+    "G",
+    "H",
+    "D"
+   ],
+   "answer": "G",
+   "explanation": "The alphabet runs F, G — so G follows F."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between X and Q?",
+   "options": [
+    "U",
+    "S",
+    "T",
+    "R"
+   ],
+   "answer": "T",
+   "explanation": "X is 24 and Q is 17, so the middle one is number 20: T."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: P, Z, I, T?",
+   "options": [
+    "P",
+    "Z",
+    "I",
+    "T"
+   ],
+   "answer": "Z",
+   "explanation": "Z is letter number 26, later than the others."
+  },
+  {
+   "question": "Which letter comes 3 places after O?",
+   "options": [
+    "R",
+    "U",
+    "M",
+    "T"
+   ],
+   "answer": "R",
+   "explanation": "Counting on from O: P (1), Q (2), R (3)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: J, H, T, Y?",
+   "options": [
+    "J",
+    "H",
+    "T",
+    "Y"
+   ],
+   "answer": "Y",
+   "explanation": "Y is letter number 25, later than the others."
+  },
+  {
+   "question": "Which letter comes right before Q?",
+   "options": [
+    "O",
+    "N",
+    "P",
+    "M"
+   ],
+   "answer": "P",
+   "explanation": "The alphabet runs P, Q — so P comes before Q."
+  },
+  {
+   "question": "Which letter comes 4 places after C?",
+   "options": [
+    "L",
+    "G",
+    "C",
+    "A"
+   ],
+   "answer": "G",
+   "explanation": "Counting on from C: D (1), E (2), F (3), G (4)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: T, C, D, Q?",
+   "options": [
+    "T",
+    "C",
+    "D",
+    "Q"
+   ],
+   "answer": "T",
+   "explanation": "T is letter number 20, later than the others."
+  },
+  {
+   "question": "Which letter comes 5 places before R?",
+   "options": [
+    "M",
+    "J",
+    "K",
+    "N"
+   ],
+   "answer": "M",
+   "explanation": "Counting back from R: Q (1), P (2), O (3), N (4), M (5)."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between L and A?",
+   "options": [
+    "D",
+    "G",
+    "F",
+    "C"
+   ],
+   "answer": "F",
+   "explanation": "L is 12 and A is 1, so the middle one is number 6: F."
+  },
+  {
+   "question": "If A=1, B=2, C=3 and so on, what number is the letter F?",
+   "options": [
+    "7",
+    "6",
+    "2",
+    "11"
+   ],
+   "answer": "6",
+   "explanation": "F is the 6th letter of the alphabet."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: C, J, X, F?",
+   "options": [
+    "C",
+    "J",
+    "X",
+    "F"
+   ],
+   "answer": "C",
+   "explanation": "C is letter number 3, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 3 places after M?",
+   "options": [
+    "P",
+    "N",
+    "M",
+    "Q"
+   ],
+   "answer": "P",
+   "explanation": "Counting on from M: N (1), O (2), P (3)."
+  },
+  {
+   "question": "Counting backwards from Z, which letter is number 5? (Z is number 1.)",
+   "options": [
+    "T",
+    "V",
+    "W",
+    "Y"
+   ],
+   "answer": "V",
+   "explanation": "Counting back from Z: Z is 1, so number 5 is V."
+  },
+  {
+   "question": "Which letter comes right before E?",
+   "options": [
+    "E",
+    "D",
+    "A",
+    "B"
+   ],
+   "answer": "D",
+   "explanation": "The alphabet runs D, E — so D comes before E."
+  },
+  {
+   "question": "Which letter comes 5 places after E?",
+   "options": [
+    "J",
+    "L",
+    "G",
+    "D"
+   ],
+   "answer": "J",
+   "explanation": "Counting on from E: F (1), G (2), H (3), I (4), J (5)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: C, J, B, M?",
+   "options": [
+    "C",
+    "J",
+    "B",
+    "M"
+   ],
+   "answer": "M",
+   "explanation": "M is letter number 13, later than the others."
+  },
+  {
+   "question": "Which letter comes 3 places before E?",
+   "options": [
+    "B",
+    "G",
+    "H",
+    "A"
+   ],
+   "answer": "B",
+   "explanation": "Counting back from E: D (1), C (2), B (3)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: Q, C, Z, I?",
+   "options": [
+    "Q",
+    "C",
+    "Z",
+    "I"
+   ],
+   "answer": "C",
+   "explanation": "C is letter number 3, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 2 places after B?",
+   "options": [
+    "G",
+    "H",
+    "D",
+    "A"
+   ],
+   "answer": "D",
+   "explanation": "Counting on from B: C (1), D (2)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: O, A, X, Q?",
+   "options": [
+    "O",
+    "A",
+    "X",
+    "Q"
+   ],
+   "answer": "X",
+   "explanation": "X is letter number 24, later than the others."
+  },
+  {
+   "question": "How many letters are there between X and A?",
+   "options": [
+    "17",
+    "22",
+    "21",
+    "24"
+   ],
+   "answer": "22",
+   "explanation": "Between X and A: B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W — that is 22."
+  },
+  {
+   "question": "How many letters are there between Z and I?",
+   "options": [
+    "16",
+    "18",
+    "11",
+    "19"
+   ],
+   "answer": "16",
+   "explanation": "Between Z and I: J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y — that is 16."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: B, J, Z, U?",
+   "options": [
+    "B",
+    "J",
+    "Z",
+    "U"
+   ],
+   "answer": "Z",
+   "explanation": "Z is letter number 26, later than the others."
+  },
+  {
+   "question": "Which letter comes 6 places before X?",
+   "options": [
+    "X",
+    "P",
+    "U",
+    "R"
+   ],
+   "answer": "R",
+   "explanation": "Counting back from X: W (1), V (2), U (3), T (4), S (5), R (6)."
+  },
+  {
+   "question": "Which letter comes 7 places before S?",
+   "options": [
+    "N",
+    "L",
+    "F",
+    "R"
+   ],
+   "answer": "L",
+   "explanation": "Counting back from S: R (1), Q (2), P (3), O (4), N (5), M (6), L (7)."
+  },
+  {
+   "question": "Which letter comes right before N?",
+   "options": [
+    "L",
+    "M",
+    "N",
+    "P"
+   ],
+   "answer": "M",
+   "explanation": "The alphabet runs M, N — so M comes before N."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between X and A?",
+   "options": [
+    "I",
+    "N",
+    "L",
+    "K"
+   ],
+   "answer": "L",
+   "explanation": "X is 24 and A is 1, so the middle one is number 12: L."
+  },
+  {
+   "question": "Which letter comes 4 places after V?",
+   "options": [
+    "X",
+    "Z",
+    "T",
+    "Y"
+   ],
+   "answer": "Z",
+   "explanation": "Counting on from V: W (1), X (2), Y (3), Z (4)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: X, W, J, F?",
+   "options": [
+    "X",
+    "W",
+    "J",
+    "F"
+   ],
+   "answer": "X",
+   "explanation": "X is letter number 24, later than the others."
+  },
+  {
+   "question": "Which letter comes 7 places after F?",
+   "options": [
+    "I",
+    "G",
+    "P",
+    "M"
+   ],
+   "answer": "M",
+   "explanation": "Counting on from F: G (1), H (2), I (3), J (4), K (5), L (6), M (7)."
+  },
+  {
+   "question": "How many letters are there between Y and O?",
+   "options": [
+    "14",
+    "9",
+    "5",
+    "4"
+   ],
+   "answer": "9",
+   "explanation": "Between Y and O: P, Q, R, S, T, U, V, W, X — that is 9."
+  },
+  {
+   "question": "How many letters are there between G and T?",
+   "options": [
+    "12",
+    "10",
+    "11",
+    "15"
+   ],
+   "answer": "12",
+   "explanation": "Between G and T: H, I, J, K, L, M, N, O, P, Q, R, S — that is 12."
+  },
+  {
+   "question": "How many letters are there between P and D?",
+   "options": [
+    "11",
+    "9",
+    "8",
+    "6"
+   ],
+   "answer": "11",
+   "explanation": "Between P and D: E, F, G, H, I, J, K, L, M, N, O — that is 11."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: X, W, C, P?",
+   "options": [
+    "X",
+    "W",
+    "C",
+    "P"
+   ],
+   "answer": "C",
+   "explanation": "C is letter number 3, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 2 places after T?",
+   "options": [
+    "V",
+    "W",
+    "R",
+    "S"
+   ],
+   "answer": "V",
+   "explanation": "Counting on from T: U (1), V (2)."
+  },
+  {
+   "question": "Counting backwards from Z, which letter is number 13? (Z is number 1.)",
+   "options": [
+    "O",
+    "N",
+    "K",
+    "Q"
+   ],
+   "answer": "N",
+   "explanation": "Counting back from Z: Z is 1, so number 13 is N."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: Z, T, Y, R?",
+   "options": [
+    "Z",
+    "T",
+    "Y",
+    "R"
+   ],
+   "answer": "Z",
+   "explanation": "Z is letter number 26, later than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: O, I, D, Z?",
+   "options": [
+    "O",
+    "I",
+    "D",
+    "Z"
+   ],
+   "answer": "D",
+   "explanation": "D is letter number 4, earlier than the others."
+  },
+  {
+   "question": "Which letter is number 2 in the alphabet?",
+   "options": [
+    "A",
+    "E",
+    "B",
+    "C"
+   ],
+   "answer": "B",
+   "explanation": "Counting from A, letter number 2 is B."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: W, V, H, I?",
+   "options": [
+    "W",
+    "V",
+    "H",
+    "I"
+   ],
+   "answer": "H",
+   "explanation": "H is letter number 8, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 6 places after K?",
+   "options": [
+    "R",
+    "Q",
+    "V",
+    "K"
+   ],
+   "answer": "Q",
+   "explanation": "Counting on from K: L (1), M (2), N (3), O (4), P (5), Q (6)."
+  },
+  {
+   "question": "Which letter comes 3 places after G?",
+   "options": [
+    "P",
+    "J",
+    "K",
+    "L"
+   ],
+   "answer": "J",
+   "explanation": "Counting on from G: H (1), I (2), J (3)."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between Q and N?",
+   "options": [
+    "M",
+    "P",
+    "R",
+    "O"
+   ],
+   "answer": "O",
+   "explanation": "Q is 17 and N is 14, so the middle one is number 15: O."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: K, L, I, X?",
+   "options": [
+    "K",
+    "L",
+    "I",
+    "X"
+   ],
+   "answer": "X",
+   "explanation": "X is letter number 24, later than the others."
+  },
+  {
+   "question": "Counting backwards from Z, which letter is number 26? (Z is number 1.)",
+   "options": [
+    "D",
+    "C",
+    "A",
+    "B"
+   ],
+   "answer": "A",
+   "explanation": "Counting back from Z: Z is 1, so number 26 is A."
+  },
+  {
+   "question": "How many letters are there between H and A?",
+   "options": [
+    "6",
+    "2",
+    "7",
+    "4"
+   ],
+   "answer": "6",
+   "explanation": "Between H and A: B, C, D, E, F, G — that is 6."
+  },
+  {
+   "question": "Which letter comes 4 places after Q?",
+   "options": [
+    "U",
+    "O",
+    "T",
+    "S"
+   ],
+   "answer": "U",
+   "explanation": "Counting on from Q: R (1), S (2), T (3), U (4)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: D, M, R, L?",
+   "options": [
+    "D",
+    "M",
+    "R",
+    "L"
+   ],
+   "answer": "D",
+   "explanation": "D is letter number 4, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 3 places before I?",
+   "options": [
+    "E",
+    "F",
+    "C",
+    "H"
+   ],
+   "answer": "F",
+   "explanation": "Counting back from I: H (1), G (2), F (3)."
+  },
+  {
+   "question": "Which letter comes 4 places before L?",
+   "options": [
+    "D",
+    "M",
+    "F",
+    "H"
+   ],
+   "answer": "H",
+   "explanation": "Counting back from L: K (1), J (2), I (3), H (4)."
+  },
+  {
+   "question": "Which letter is number 20 in the alphabet?",
+   "options": [
+    "T",
+    "X",
+    "O",
+    "Q"
+   ],
+   "answer": "T",
+   "explanation": "Counting from A, letter number 20 is T."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: U, Z, W, Q?",
+   "options": [
+    "U",
+    "Z",
+    "W",
+    "Q"
+   ],
+   "answer": "Q",
+   "explanation": "Q is letter number 17, earlier than the others."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between M and Z?",
+   "options": [
+    "V",
+    "R",
+    "S",
+    "U"
+   ],
+   "answer": "S",
+   "explanation": "M is 13 and Z is 26, so the middle one is number 19: S."
+  },
+  {
+   "question": "Which letter comes 7 places after S?",
+   "options": [
+    "U",
+    "V",
+    "W",
+    "Z"
+   ],
+   "answer": "Z",
+   "explanation": "Counting on from S: T (1), U (2), V (3), W (4), X (5), Y (6), Z (7)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: E, Z, A, M?",
+   "options": [
+    "E",
+    "Z",
+    "A",
+    "M"
+   ],
+   "answer": "Z",
+   "explanation": "Z is letter number 26, later than the others."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between L and S?",
+   "options": [
+    "L",
+    "M",
+    "O",
+    "P"
+   ],
+   "answer": "O",
+   "explanation": "L is 12 and S is 19, so the middle one is number 15: O."
+  },
+  {
+   "question": "Counting backwards from Z, which letter is number 4? (Z is number 1.)",
+   "options": [
+    "V",
+    "T",
+    "W",
+    "Y"
+   ],
+   "answer": "W",
+   "explanation": "Counting back from Z: Z is 1, so number 4 is W."
+  },
+  {
+   "question": "Which letter is number 13 in the alphabet?",
+   "options": [
+    "M",
+    "L",
+    "H",
+    "J"
+   ],
+   "answer": "M",
+   "explanation": "Counting from A, letter number 13 is M."
+  },
+  {
+   "question": "Which letter comes 3 places before T?",
+   "options": [
+    "Q",
+    "K",
+    "O",
+    "W"
+   ],
+   "answer": "Q",
+   "explanation": "Counting back from T: S (1), R (2), Q (3)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: S, N, C, L?",
+   "options": [
+    "S",
+    "N",
+    "C",
+    "L"
+   ],
+   "answer": "S",
+   "explanation": "S is letter number 19, later than the others."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between R and A?",
+   "options": [
+    "L",
+    "H",
+    "I",
+    "J"
+   ],
+   "answer": "I",
+   "explanation": "R is 18 and A is 1, so the middle one is number 9: I."
+  },
+  {
+   "question": "Which letter comes 2 places before I?",
+   "options": [
+    "B",
+    "I",
+    "M",
+    "G"
+   ],
+   "answer": "G",
+   "explanation": "Counting back from I: H (1), G (2)."
+  },
+  {
+   "question": "Which letter is number 12 in the alphabet?",
+   "options": [
+    "K",
+    "P",
+    "R",
+    "L"
+   ],
+   "answer": "L",
+   "explanation": "Counting from A, letter number 12 is L."
+  },
+  {
+   "question": "Which letter comes 5 places after C?",
+   "options": [
+    "H",
+    "B",
+    "L",
+    "M"
+   ],
+   "answer": "H",
+   "explanation": "Counting on from C: D (1), E (2), F (3), G (4), H (5)."
+  },
+  {
+   "question": "Counting backwards from Z, which letter is number 23? (Z is number 1.)",
+   "options": [
+    "B",
+    "D",
+    "E",
+    "A"
+   ],
+   "answer": "D",
+   "explanation": "Counting back from Z: Z is 1, so number 23 is D."
+  },
+  {
+   "question": "How many letters are there between C and A?",
+   "options": [
+    "1",
+    "5",
+    "2",
+    "3"
+   ],
+   "answer": "1",
+   "explanation": "Between C and A: B — that is 1."
+  },
+  {
+   "question": "Counting backwards from Z, which letter is number 21? (Z is number 1.)",
+   "options": [
+    "H",
+    "E",
+    "C",
+    "F"
+   ],
+   "answer": "F",
+   "explanation": "Counting back from Z: Z is 1, so number 21 is F."
+  },
+  {
+   "question": "If A=1, B=2, C=3 and so on, what number is the letter L?",
+   "options": [
+    "9",
+    "12",
+    "8",
+    "7"
+   ],
+   "answer": "12",
+   "explanation": "L is the 12th letter of the alphabet."
+  },
+  {
+   "question": "Which letter comes 4 places after E?",
+   "options": [
+    "E",
+    "F",
+    "I",
+    "O"
+   ],
+   "answer": "I",
+   "explanation": "Counting on from E: F (1), G (2), H (3), I (4)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: E, K, J, D?",
+   "options": [
+    "E",
+    "K",
+    "J",
+    "D"
+   ],
+   "answer": "K",
+   "explanation": "K is letter number 11, later than the others."
+  },
+  {
+   "question": "Which letter is number 7 in the alphabet?",
+   "options": [
+    "H",
+    "M",
+    "F",
+    "G"
+   ],
+   "answer": "G",
+   "explanation": "Counting from A, letter number 7 is G."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: S, M, I, E?",
+   "options": [
+    "S",
+    "M",
+    "I",
+    "E"
+   ],
+   "answer": "S",
+   "explanation": "S is letter number 19, later than the others."
+  }
+ ],
+ "round2": [
+  {
+   "question": "Which letter comes 3 places after J?",
+   "options": [
+    "M",
+    "K",
+    "S",
+    "J"
+   ],
+   "answer": "M",
+   "explanation": "Counting on from J: K (1), L (2), M (3)."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between I and P?",
+   "options": [
+    "M",
+    "N",
+    "O",
+    "L"
+   ],
+   "answer": "L",
+   "explanation": "I is 9 and P is 16, so the middle one is number 12: L."
+  },
+  {
+   "question": "Which letter comes 7 places after E?",
+   "options": [
+    "N",
+    "L",
+    "I",
+    "K"
+   ],
+   "answer": "L",
+   "explanation": "Counting on from E: F (1), G (2), H (3), I (4), J (5), K (6), L (7)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: C, L, A, P?",
+   "options": [
+    "C",
+    "L",
+    "A",
+    "P"
+   ],
+   "answer": "A",
+   "explanation": "A is letter number 1, earlier than the others."
+  },
+  {
+   "question": "Which letter comes right after E?",
+   "options": [
+    "H",
+    "F",
+    "E",
+    "D"
+   ],
+   "answer": "F",
+   "explanation": "The alphabet runs E, F — so F follows E."
+  },
+  {
+   "question": "Which letter comes 2 places after R?",
+   "options": [
+    "Y",
+    "T",
+    "N",
+    "Z"
+   ],
+   "answer": "T",
+   "explanation": "Counting on from R: S (1), T (2)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: U, S, O, I?",
+   "options": [
+    "U",
+    "S",
+    "O",
+    "I"
+   ],
+   "answer": "U",
+   "explanation": "U is letter number 21, later than the others."
+  },
+  {
+   "question": "Which letter comes 2 places after Q?",
+   "options": [
+    "O",
+    "S",
+    "T",
+    "Q"
+   ],
+   "answer": "S",
+   "explanation": "Counting on from Q: R (1), S (2)."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between W and B?",
+   "options": [
+    "L",
+    "M",
+    "I",
+    "K"
+   ],
+   "answer": "L",
+   "explanation": "W is 23 and B is 2, so the middle one is number 12: L."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: S, F, D, V?",
+   "options": [
+    "S",
+    "F",
+    "D",
+    "V"
+   ],
+   "answer": "D",
+   "explanation": "D is letter number 4, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: Z, O, B, N?",
+   "options": [
+    "Z",
+    "O",
+    "B",
+    "N"
+   ],
+   "answer": "B",
+   "explanation": "B is letter number 2, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 6 places after H?",
+   "options": [
+    "N",
+    "H",
+    "O",
+    "S"
+   ],
+   "answer": "N",
+   "explanation": "Counting on from H: I (1), J (2), K (3), L (4), M (5), N (6)."
+  },
+  {
+   "question": "How many letters are there between N and J?",
+   "options": [
+    "4",
+    "2",
+    "1",
+    "3"
+   ],
+   "answer": "3",
+   "explanation": "Between N and J: K, L, M — that is 3."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: O, C, I, S?",
+   "options": [
+    "O",
+    "C",
+    "I",
+    "S"
+   ],
+   "answer": "C",
+   "explanation": "C is letter number 3, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: A, P, B, E?",
+   "options": [
+    "A",
+    "P",
+    "B",
+    "E"
+   ],
+   "answer": "A",
+   "explanation": "A is letter number 1, earlier than the others."
+  },
+  {
+   "question": "How many letters are there between F and R?",
+   "options": [
+    "11",
+    "8",
+    "14",
+    "12"
+   ],
+   "answer": "11",
+   "explanation": "Between F and R: G, H, I, J, K, L, M, N, O, P, Q — that is 11."
+  },
+  {
+   "question": "How many letters are there between E and Q?",
+   "options": [
+    "9",
+    "13",
+    "14",
+    "11"
+   ],
+   "answer": "11",
+   "explanation": "Between E and Q: F, G, H, I, J, K, L, M, N, O, P — that is 11."
+  },
+  {
+   "question": "How many letters are there between Z and H?",
+   "options": [
+    "22",
+    "13",
+    "17",
+    "19"
+   ],
+   "answer": "17",
+   "explanation": "Between Z and H: I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y — that is 17."
+  },
+  {
+   "question": "Which letter comes right before G?",
+   "options": [
+    "F",
+    "H",
+    "I",
+    "G"
+   ],
+   "answer": "F",
+   "explanation": "The alphabet runs F, G — so F comes before G."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: J, E, A, R?",
+   "options": [
+    "J",
+    "E",
+    "A",
+    "R"
+   ],
+   "answer": "R",
+   "explanation": "R is letter number 18, later than the others."
+  },
+  {
+   "question": "Which letter comes 6 places before Q?",
+   "options": [
+    "O",
+    "J",
+    "M",
+    "K"
+   ],
+   "answer": "K",
+   "explanation": "Counting back from Q: P (1), O (2), N (3), M (4), L (5), K (6)."
+  },
+  {
+   "question": "How many letters are there between E and I?",
+   "options": [
+    "6",
+    "1",
+    "3",
+    "5"
+   ],
+   "answer": "3",
+   "explanation": "Between E and I: F, G, H — that is 3."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: D, P, I, J?",
+   "options": [
+    "D",
+    "P",
+    "I",
+    "J"
+   ],
+   "answer": "P",
+   "explanation": "P is letter number 16, later than the others."
+  },
+  {
+   "question": "Which letter comes 2 places after K?",
+   "options": [
+    "G",
+    "M",
+    "N",
+    "I"
+   ],
+   "answer": "M",
+   "explanation": "Counting on from K: L (1), M (2)."
+  },
+  {
+   "question": "Which letter comes right after O?",
+   "options": [
+    "N",
+    "R",
+    "P",
+    "S"
+   ],
+   "answer": "P",
+   "explanation": "The alphabet runs O, P — so P follows O."
+  },
+  {
+   "question": "Which letter comes 2 places after W?",
+   "options": [
+    "T",
+    "Y",
+    "W",
+    "U"
+   ],
+   "answer": "Y",
+   "explanation": "Counting on from W: X (1), Y (2)."
+  },
+  {
+   "question": "Which letter comes 6 places before Z?",
+   "options": [
+    "N",
+    "W",
+    "X",
+    "T"
+   ],
+   "answer": "T",
+   "explanation": "Counting back from Z: Y (1), X (2), W (3), V (4), U (5), T (6)."
+  },
+  {
+   "question": "Which letter comes 6 places before Y?",
+   "options": [
+    "O",
+    "P",
+    "Q",
+    "S"
+   ],
+   "answer": "S",
+   "explanation": "Counting back from Y: X (1), W (2), V (3), U (4), T (5), S (6)."
+  },
+  {
+   "question": "Which letter comes 7 places after J?",
+   "options": [
+    "W",
+    "V",
+    "Q",
+    "K"
+   ],
+   "answer": "Q",
+   "explanation": "Counting on from J: K (1), L (2), M (3), N (4), O (5), P (6), Q (7)."
+  },
+  {
+   "question": "Which letter comes right after J?",
+   "options": [
+    "K",
+    "J",
+    "H",
+    "I"
+   ],
+   "answer": "K",
+   "explanation": "The alphabet runs J, K — so K follows J."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: I, E, N, L?",
+   "options": [
+    "I",
+    "E",
+    "N",
+    "L"
+   ],
+   "answer": "N",
+   "explanation": "N is letter number 14, later than the others."
+  },
+  {
+   "question": "Which letter comes 6 places after R?",
+   "options": [
+    "Z",
+    "W",
+    "R",
+    "X"
+   ],
+   "answer": "X",
+   "explanation": "Counting on from R: S (1), T (2), U (3), V (4), W (5), X (6)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: E, U, G, F?",
+   "options": [
+    "E",
+    "U",
+    "G",
+    "F"
+   ],
+   "answer": "U",
+   "explanation": "U is letter number 21, later than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: J, M, H, W?",
+   "options": [
+    "J",
+    "M",
+    "H",
+    "W"
+   ],
+   "answer": "H",
+   "explanation": "H is letter number 8, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: E, Z, G, K?",
+   "options": [
+    "E",
+    "Z",
+    "G",
+    "K"
+   ],
+   "answer": "E",
+   "explanation": "E is letter number 5, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: P, V, J, M?",
+   "options": [
+    "P",
+    "V",
+    "J",
+    "M"
+   ],
+   "answer": "J",
+   "explanation": "J is letter number 10, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: Z, T, E, A?",
+   "options": [
+    "Z",
+    "T",
+    "E",
+    "A"
+   ],
+   "answer": "A",
+   "explanation": "A is letter number 1, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: K, X, M, Y?",
+   "options": [
+    "K",
+    "X",
+    "M",
+    "Y"
+   ],
+   "answer": "Y",
+   "explanation": "Y is letter number 25, later than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: R, V, C, Y?",
+   "options": [
+    "R",
+    "V",
+    "C",
+    "Y"
+   ],
+   "answer": "Y",
+   "explanation": "Y is letter number 25, later than the others."
+  },
+  {
+   "question": "Which letter comes 7 places after D?",
+   "options": [
+    "L",
+    "K",
+    "Q",
+    "O"
+   ],
+   "answer": "K",
+   "explanation": "Counting on from D: E (1), F (2), G (3), H (4), I (5), J (6), K (7)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: Q, C, U, G?",
+   "options": [
+    "Q",
+    "C",
+    "U",
+    "G"
+   ],
+   "answer": "U",
+   "explanation": "U is letter number 21, later than the others."
+  },
+  {
+   "question": "If A=1, B=2, C=3 and so on, what number is the letter C?",
+   "options": [
+    "5",
+    "8",
+    "4",
+    "3"
+   ],
+   "answer": "3",
+   "explanation": "C is the 3th letter of the alphabet."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: X, V, K, O?",
+   "options": [
+    "X",
+    "V",
+    "K",
+    "O"
+   ],
+   "answer": "K",
+   "explanation": "K is letter number 11, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: F, M, Q, B?",
+   "options": [
+    "F",
+    "M",
+    "Q",
+    "B"
+   ],
+   "answer": "B",
+   "explanation": "B is letter number 2, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: F, Z, O, L?",
+   "options": [
+    "F",
+    "Z",
+    "O",
+    "L"
+   ],
+   "answer": "F",
+   "explanation": "F is letter number 6, earlier than the others."
+  },
+  {
+   "question": "How many letters are there between T and X?",
+   "options": [
+    "8",
+    "2",
+    "3",
+    "6"
+   ],
+   "answer": "3",
+   "explanation": "Between T and X: U, V, W — that is 3."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: Z, N, C, V?",
+   "options": [
+    "Z",
+    "N",
+    "C",
+    "V"
+   ],
+   "answer": "C",
+   "explanation": "C is letter number 3, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: P, U, E, L?",
+   "options": [
+    "P",
+    "U",
+    "E",
+    "L"
+   ],
+   "answer": "E",
+   "explanation": "E is letter number 5, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: M, G, J, K?",
+   "options": [
+    "M",
+    "G",
+    "J",
+    "K"
+   ],
+   "answer": "G",
+   "explanation": "G is letter number 7, earlier than the others."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between F and Y?",
+   "options": [
+    "N",
+    "L",
+    "O",
+    "Q"
+   ],
+   "answer": "O",
+   "explanation": "F is 6 and Y is 25, so the middle one is number 15: O."
+  },
+  {
+   "question": "Which letter comes right before X?",
+   "options": [
+    "X",
+    "V",
+    "W",
+    "Z"
+   ],
+   "answer": "W",
+   "explanation": "The alphabet runs W, X — so W comes before X."
+  },
+  {
+   "question": "If A=1, B=2, C=3 and so on, what number is the letter O?",
+   "options": [
+    "16",
+    "15",
+    "12",
+    "19"
+   ],
+   "answer": "15",
+   "explanation": "O is the 15th letter of the alphabet."
+  },
+  {
+   "question": "Which letter comes 5 places after H?",
+   "options": [
+    "R",
+    "S",
+    "M",
+    "O"
+   ],
+   "answer": "M",
+   "explanation": "Counting on from H: I (1), J (2), K (3), L (4), M (5)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: X, W, H, I?",
+   "options": [
+    "X",
+    "W",
+    "H",
+    "I"
+   ],
+   "answer": "X",
+   "explanation": "X is letter number 24, later than the others."
+  },
+  {
+   "question": "How many letters are there between A and W?",
+   "options": [
+    "21",
+    "22",
+    "18",
+    "17"
+   ],
+   "answer": "21",
+   "explanation": "Between A and W: B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V — that is 21."
+  },
+  {
+   "question": "Which letter comes 7 places after A?",
+   "options": [
+    "F",
+    "H",
+    "L",
+    "D"
+   ],
+   "answer": "H",
+   "explanation": "Counting on from A: B (1), C (2), D (3), E (4), F (5), G (6), H (7)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: M, W, O, E?",
+   "options": [
+    "M",
+    "W",
+    "O",
+    "E"
+   ],
+   "answer": "E",
+   "explanation": "E is letter number 5, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 6 places before J?",
+   "options": [
+    "J",
+    "D",
+    "F",
+    "C"
+   ],
+   "answer": "D",
+   "explanation": "Counting back from J: I (1), H (2), G (3), F (4), E (5), D (6)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: E, B, J, Q?",
+   "options": [
+    "E",
+    "B",
+    "J",
+    "Q"
+   ],
+   "answer": "B",
+   "explanation": "B is letter number 2, earlier than the others."
+  },
+  {
+   "question": "How many letters are there between W and Y?",
+   "options": [
+    "1",
+    "4",
+    "2",
+    "3"
+   ],
+   "answer": "1",
+   "explanation": "Between W and Y: X — that is 1."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between X and G?",
+   "options": [
+    "O",
+    "R",
+    "P",
+    "Q"
+   ],
+   "answer": "O",
+   "explanation": "X is 24 and G is 7, so the middle one is number 15: O."
+  },
+  {
+   "question": "Counting backwards from Z, which letter is number 1? (Z is number 1.)",
+   "options": [
+    "Y",
+    "W",
+    "X",
+    "Z"
+   ],
+   "answer": "Z",
+   "explanation": "Counting back from Z: Z is 1, so number 1 is Z."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: Y, Z, G, I?",
+   "options": [
+    "Y",
+    "Z",
+    "G",
+    "I"
+   ],
+   "answer": "G",
+   "explanation": "G is letter number 7, earlier than the others."
+  },
+  {
+   "question": "Which letter comes right before D?",
+   "options": [
+    "C",
+    "E",
+    "B",
+    "F"
+   ],
+   "answer": "C",
+   "explanation": "The alphabet runs C, D — so C comes before D."
+  },
+  {
+   "question": "Counting backwards from Z, which letter is number 18? (Z is number 1.)",
+   "options": [
+    "J",
+    "F",
+    "I",
+    "L"
+   ],
+   "answer": "I",
+   "explanation": "Counting back from Z: Z is 1, so number 18 is I."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: I, D, C, T?",
+   "options": [
+    "I",
+    "D",
+    "C",
+    "T"
+   ],
+   "answer": "C",
+   "explanation": "C is letter number 3, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: I, Q, S, F?",
+   "options": [
+    "I",
+    "Q",
+    "S",
+    "F"
+   ],
+   "answer": "F",
+   "explanation": "F is letter number 6, earlier than the others."
+  },
+  {
+   "question": "Which letter comes right before T?",
+   "options": [
+    "Q",
+    "T",
+    "U",
+    "S"
+   ],
+   "answer": "S",
+   "explanation": "The alphabet runs S, T — so S comes before T."
+  },
+  {
+   "question": "Which letter comes 3 places before F?",
+   "options": [
+    "G",
+    "H",
+    "C",
+    "I"
+   ],
+   "answer": "C",
+   "explanation": "Counting back from F: E (1), D (2), C (3)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: Y, M, X, C?",
+   "options": [
+    "Y",
+    "M",
+    "X",
+    "C"
+   ],
+   "answer": "C",
+   "explanation": "C is letter number 3, earlier than the others."
+  },
+  {
+   "question": "Which letter comes right before J?",
+   "options": [
+    "G",
+    "I",
+    "F",
+    "H"
+   ],
+   "answer": "I",
+   "explanation": "The alphabet runs I, J — so I comes before J."
+  },
+  {
+   "question": "Which letter comes 3 places before S?",
+   "options": [
+    "K",
+    "O",
+    "P",
+    "U"
+   ],
+   "answer": "P",
+   "explanation": "Counting back from S: R (1), Q (2), P (3)."
+  },
+  {
+   "question": "Which letter comes right before C?",
+   "options": [
+    "C",
+    "D",
+    "B",
+    "E"
+   ],
+   "answer": "B",
+   "explanation": "The alphabet runs B, C — so B comes before C."
+  },
+  {
+   "question": "How many letters are there between U and M?",
+   "options": [
+    "5",
+    "12",
+    "4",
+    "7"
+   ],
+   "answer": "7",
+   "explanation": "Between U and M: N, O, P, Q, R, S, T — that is 7."
+  },
+  {
+   "question": "Which letter comes 5 places after U?",
+   "options": [
+    "V",
+    "Y",
+    "Z",
+    "W"
+   ],
+   "answer": "Z",
+   "explanation": "Counting on from U: V (1), W (2), X (3), Y (4), Z (5)."
+  },
+  {
+   "question": "Which letter comes 3 places after S?",
+   "options": [
+    "Y",
+    "V",
+    "U",
+    "X"
+   ],
+   "answer": "V",
+   "explanation": "Counting on from S: T (1), U (2), V (3)."
+  },
+  {
+   "question": "Which letter comes 7 places before K?",
+   "options": [
+    "B",
+    "H",
+    "F",
+    "D"
+   ],
+   "answer": "D",
+   "explanation": "Counting back from K: J (1), I (2), H (3), G (4), F (5), E (6), D (7)."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between Z and K?",
+   "options": [
+    "Q",
+    "T",
+    "R",
+    "P"
+   ],
+   "answer": "R",
+   "explanation": "Z is 26 and K is 11, so the middle one is number 18: R."
+  },
+  {
+   "question": "Which letter comes 7 places before W?",
+   "options": [
+    "S",
+    "P",
+    "V",
+    "L"
+   ],
+   "answer": "P",
+   "explanation": "Counting back from W: V (1), U (2), T (3), S (4), R (5), Q (6), P (7)."
+  },
+  {
+   "question": "Which letter comes 2 places before O?",
+   "options": [
+    "M",
+    "G",
+    "P",
+    "O"
+   ],
+   "answer": "M",
+   "explanation": "Counting back from O: N (1), M (2)."
+  },
+  {
+   "question": "Which letter comes 4 places before V?",
+   "options": [
+    "R",
+    "N",
+    "T",
+    "O"
+   ],
+   "answer": "R",
+   "explanation": "Counting back from V: U (1), T (2), S (3), R (4)."
+  },
+  {
+   "question": "Which letter comes 5 places after D?",
+   "options": [
+    "D",
+    "K",
+    "I",
+    "N"
+   ],
+   "answer": "I",
+   "explanation": "Counting on from D: E (1), F (2), G (3), H (4), I (5)."
+  },
+  {
+   "question": "Which letter comes 7 places after O?",
+   "options": [
+    "U",
+    "Z",
+    "V",
+    "Q"
+   ],
+   "answer": "V",
+   "explanation": "Counting on from O: P (1), Q (2), R (3), S (4), T (5), U (6), V (7)."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: Z, H, E, S?",
+   "options": [
+    "Z",
+    "H",
+    "E",
+    "S"
+   ],
+   "answer": "Z",
+   "explanation": "Z is letter number 26, later than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: N, V, X, B?",
+   "options": [
+    "N",
+    "V",
+    "X",
+    "B"
+   ],
+   "answer": "X",
+   "explanation": "X is letter number 24, later than the others."
+  },
+  {
+   "question": "Which letter comes 5 places after R?",
+   "options": [
+    "X",
+    "W",
+    "T",
+    "Q"
+   ],
+   "answer": "W",
+   "explanation": "Counting on from R: S (1), T (2), U (3), V (4), W (5)."
+  },
+  {
+   "question": "How many letters are there between X and G?",
+   "options": [
+    "16",
+    "17",
+    "12",
+    "15"
+   ],
+   "answer": "16",
+   "explanation": "Between X and G: H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W — that is 16."
+  },
+  {
+   "question": "If A=1, B=2, C=3 and so on, what number is the letter W?",
+   "options": [
+    "22",
+    "18",
+    "23",
+    "26"
+   ],
+   "answer": "23",
+   "explanation": "W is the 23th letter of the alphabet."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: Y, T, B, E?",
+   "options": [
+    "Y",
+    "T",
+    "B",
+    "E"
+   ],
+   "answer": "Y",
+   "explanation": "Y is letter number 25, later than the others."
+  },
+  {
+   "question": "How many letters are there between M and W?",
+   "options": [
+    "6",
+    "9",
+    "10",
+    "8"
+   ],
+   "answer": "9",
+   "explanation": "Between M and W: N, O, P, Q, R, S, T, U, V — that is 9."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: Z, P, J, Q?",
+   "options": [
+    "Z",
+    "P",
+    "J",
+    "Q"
+   ],
+   "answer": "J",
+   "explanation": "J is letter number 10, earlier than the others."
+  },
+  {
+   "question": "Which letter comes 4 places after T?",
+   "options": [
+    "W",
+    "T",
+    "X",
+    "U"
+   ],
+   "answer": "X",
+   "explanation": "Counting on from T: U (1), V (2), W (3), X (4)."
+  },
+  {
+   "question": "How many letters are there between R and X?",
+   "options": [
+    "1",
+    "5",
+    "10",
+    "3"
+   ],
+   "answer": "5",
+   "explanation": "Between R and X: S, T, U, V, W — that is 5."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: B, I, V, H?",
+   "options": [
+    "B",
+    "I",
+    "V",
+    "H"
+   ],
+   "answer": "B",
+   "explanation": "B is letter number 2, earlier than the others."
+  },
+  {
+   "question": "How many letters are there between B and L?",
+   "options": [
+    "5",
+    "7",
+    "9",
+    "10"
+   ],
+   "answer": "9",
+   "explanation": "Between B and L: C, D, E, F, G, H, I, J, K — that is 9."
+  },
+  {
+   "question": "Which letter comes 4 places before I?",
+   "options": [
+    "C",
+    "I",
+    "D",
+    "E"
+   ],
+   "answer": "E",
+   "explanation": "Counting back from I: H (1), G (2), F (3), E (4)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: Q, J, D, E?",
+   "options": [
+    "Q",
+    "J",
+    "D",
+    "E"
+   ],
+   "answer": "D",
+   "explanation": "D is letter number 4, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: Y, L, M, D?",
+   "options": [
+    "Y",
+    "L",
+    "M",
+    "D"
+   ],
+   "answer": "Y",
+   "explanation": "Y is letter number 25, later than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: T, V, N, P?",
+   "options": [
+    "T",
+    "V",
+    "N",
+    "P"
+   ],
+   "answer": "V",
+   "explanation": "V is letter number 22, later than the others."
+  },
+  {
+   "question": "How many letters are there between M and P?",
+   "options": [
+    "7",
+    "3",
+    "2",
+    "5"
+   ],
+   "answer": "2",
+   "explanation": "Between M and P: N, O — that is 2."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between T and G?",
+   "options": [
+    "M",
+    "O",
+    "K",
+    "N"
+   ],
+   "answer": "M",
+   "explanation": "T is 20 and G is 7, so the middle one is number 13: M."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: H, W, X, T?",
+   "options": [
+    "H",
+    "W",
+    "X",
+    "T"
+   ],
+   "answer": "X",
+   "explanation": "X is letter number 24, later than the others."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between L and O?",
+   "options": [
+    "L",
+    "O",
+    "N",
+    "M"
+   ],
+   "answer": "M",
+   "explanation": "L is 12 and O is 15, so the middle one is number 13: M."
+  },
+  {
+   "question": "Which letter comes 3 places before Z?",
+   "options": [
+    "X",
+    "Q",
+    "V",
+    "W"
+   ],
+   "answer": "W",
+   "explanation": "Counting back from Z: Y (1), X (2), W (3)."
+  },
+  {
+   "question": "Which letter comes 2 places after H?",
+   "options": [
+    "F",
+    "K",
+    "J",
+    "P"
+   ],
+   "answer": "J",
+   "explanation": "Counting on from H: I (1), J (2)."
+  },
+  {
+   "question": "How many letters are there between L and Z?",
+   "options": [
+    "11",
+    "10",
+    "9",
+    "13"
+   ],
+   "answer": "13",
+   "explanation": "Between L and Z: M, N, O, P, Q, R, S, T, U, V, W, X, Y — that is 13."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between L and I?",
+   "options": [
+    "J",
+    "G",
+    "M",
+    "I"
+   ],
+   "answer": "J",
+   "explanation": "L is 12 and I is 9, so the middle one is number 10: J."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: O, I, Q, A?",
+   "options": [
+    "O",
+    "I",
+    "Q",
+    "A"
+   ],
+   "answer": "Q",
+   "explanation": "Q is letter number 17, later than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: M, H, B, Y?",
+   "options": [
+    "M",
+    "H",
+    "B",
+    "Y"
+   ],
+   "answer": "B",
+   "explanation": "B is letter number 2, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: O, J, V, D?",
+   "options": [
+    "O",
+    "J",
+    "V",
+    "D"
+   ],
+   "answer": "D",
+   "explanation": "D is letter number 4, earlier than the others."
+  },
+  {
+   "question": "If A=1, B=2, C=3 and so on, what number is the letter U?",
+   "options": [
+    "21",
+    "19",
+    "17",
+    "18"
+   ],
+   "answer": "21",
+   "explanation": "U is the 21th letter of the alphabet."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between Q and Z?",
+   "options": [
+    "R",
+    "U",
+    "S",
+    "W"
+   ],
+   "answer": "U",
+   "explanation": "Q is 17 and Z is 26, so the middle one is number 21: U."
+  },
+  {
+   "question": "How many letters are there between S and Y?",
+   "options": [
+    "9",
+    "6",
+    "5",
+    "10"
+   ],
+   "answer": "5",
+   "explanation": "Between S and Y: T, U, V, W, X — that is 5."
+  },
+  {
+   "question": "Which letter is number 26 in the alphabet?",
+   "options": [
+    "W",
+    "Z",
+    "X",
+    "U"
+   ],
+   "answer": "Z",
+   "explanation": "Counting from A, letter number 26 is Z."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: P, G, Y, V?",
+   "options": [
+    "P",
+    "G",
+    "Y",
+    "V"
+   ],
+   "answer": "Y",
+   "explanation": "Y is letter number 25, later than the others."
+  },
+  {
+   "question": "Which letter comes 3 places after Q?",
+   "options": [
+    "X",
+    "N",
+    "P",
+    "T"
+   ],
+   "answer": "T",
+   "explanation": "Counting on from Q: R (1), S (2), T (3)."
+  },
+  {
+   "question": "Which letter comes 7 places after M?",
+   "options": [
+    "T",
+    "R",
+    "W",
+    "X"
+   ],
+   "answer": "T",
+   "explanation": "Counting on from M: N (1), O (2), P (3), Q (4), R (5), S (6), T (7)."
+  },
+  {
+   "question": "If A=1, B=2, C=3 and so on, what number is the letter T?",
+   "options": [
+    "22",
+    "18",
+    "20",
+    "25"
+   ],
+   "answer": "20",
+   "explanation": "T is the 20th letter of the alphabet."
+  },
+  {
+   "question": "How many letters are there between Q and I?",
+   "options": [
+    "9",
+    "4",
+    "7",
+    "6"
+   ],
+   "answer": "7",
+   "explanation": "Between Q and I: J, K, L, M, N, O, P — that is 7."
+  },
+  {
+   "question": "If A=1, B=2, C=3 and so on, what number is the letter E?",
+   "options": [
+    "1",
+    "5",
+    "10",
+    "8"
+   ],
+   "answer": "5",
+   "explanation": "E is the 5th letter of the alphabet."
+  },
+  {
+   "question": "How many letters are there between T and W?",
+   "options": [
+    "5",
+    "1",
+    "7",
+    "2"
+   ],
+   "answer": "2",
+   "explanation": "Between T and W: U, V — that is 2."
+  },
+  {
+   "question": "Which letter sits exactly in the middle between I and T?",
+   "options": [
+    "N",
+    "K",
+    "O",
+    "M"
+   ],
+   "answer": "N",
+   "explanation": "I is 9 and T is 20, so the middle one is number 14: N."
+  },
+  {
+   "question": "How many letters are there between F and L?",
+   "options": [
+    "1",
+    "5",
+    "6",
+    "3"
+   ],
+   "answer": "5",
+   "explanation": "Between F and L: G, H, I, J, K — that is 5."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: H, R, I, A?",
+   "options": [
+    "H",
+    "R",
+    "I",
+    "A"
+   ],
+   "answer": "R",
+   "explanation": "R is letter number 18, later than the others."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: R, G, F, A?",
+   "options": [
+    "R",
+    "G",
+    "F",
+    "A"
+   ],
+   "answer": "A",
+   "explanation": "A is letter number 1, earlier than the others."
+  },
+  {
+   "question": "Which of these letters comes last in the alphabet: W, Y, V, C?",
+   "options": [
+    "W",
+    "Y",
+    "V",
+    "C"
+   ],
+   "answer": "Y",
+   "explanation": "Y is letter number 25, later than the others."
+  },
+  {
+   "question": "Which letter comes 6 places before M?",
+   "options": [
+    "H",
+    "E",
+    "G",
+    "M"
+   ],
+   "answer": "G",
+   "explanation": "Counting back from M: L (1), K (2), J (3), I (4), H (5), G (6)."
+  },
+  {
+   "question": "Which letter comes 5 places after M?",
+   "options": [
+    "L",
+    "R",
+    "V",
+    "M"
+   ],
+   "answer": "R",
+   "explanation": "Counting on from M: N (1), O (2), P (3), Q (4), R (5)."
+  },
+  {
+   "question": "Which letter comes 3 places before O?",
+   "options": [
+    "K",
+    "R",
+    "J",
+    "L"
+   ],
+   "answer": "L",
+   "explanation": "Counting back from O: N (1), M (2), L (3)."
+  },
+  {
+   "question": "Which of these letters comes first in the alphabet: V, A, Q, R?",
+   "options": [
+    "V",
+    "A",
+    "Q",
+    "R"
+   ],
+   "answer": "A",
+   "explanation": "A is letter number 1, earlier than the others."
+  }
+ ]
+}

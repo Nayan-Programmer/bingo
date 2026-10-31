@@ -1,0 +1,179 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Design system — "Classroom Game Show"
+ *
+ * Warm cream stage, marigold-gold primary, teal + coral support colors,
+ * chunky rounded shapes and playful Fredoka display type. Every color is a
+ * semantic token defined here; components never hardcode colors.
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --font-display: "Fredoka", "Nunito", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Nunito", ui-sans-serif, system-ui, sans-serif;
+
+  --animate-pop: pop 0.45s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  --animate-rise: rise 0.45s ease-out both;
+  --animate-wiggle: wiggle 0.5s ease-in-out;
+  --animate-float-slow: float-slow 9s ease-in-out infinite;
+
+  @keyframes pop {
+    0% { transform: scale(0.55); opacity: 0; }
+    60% { transform: scale(1.08); opacity: 1; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+  @keyframes rise {
+    0% { transform: translateY(14px); opacity: 0; }
+    100% { transform: translateY(0); opacity: 1; }
+  }
+  @keyframes wiggle {
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(-2.5deg); }
+    75% { transform: rotate(2.5deg); }
+  }
+  @keyframes float-slow {
+    0%, 100% { transform: translateY(0) scale(1); }
+    50% { transform: translateY(-24px) scale(1.05); }
+  }
+}
+
+:root {
+  --radius: 1rem;
+  --background: oklch(0.965 0.02 85);
+  --foreground: oklch(0.29 0.06 262);
+  --card: oklch(0.995 0.006 85);
+  --card-foreground: oklch(0.29 0.06 262);
+  --popover: oklch(0.995 0.006 85);
+  --popover-foreground: oklch(0.29 0.06 262);
+  --primary: oklch(0.80 0.16 78);
+  --primary-foreground: oklch(0.26 0.07 262);
+  --secondary: oklch(0.87 0.06 195);
+  --secondary-foreground: oklch(0.28 0.06 262);
+  --muted: oklch(0.925 0.02 85);
+  --muted-foreground: oklch(0.50 0.04 262);
+  --accent: oklch(0.70 0.19 30);
+  --accent-foreground: oklch(0.99 0.01 85);
+  --destructive: oklch(0.60 0.22 25);
+  --destructive-foreground: oklch(0.99 0.01 85);
+  --success: oklch(0.65 0.15 155);
+  --success-foreground: oklch(0.99 0.01 155);
+  --border: oklch(0.885 0.03 84);
+  --input: oklch(0.885 0.03 84);
+  --ring: oklch(0.72 0.12 78);
+  /* Wheel segment palette (cycled per student) */
+  --wheel-1: oklch(0.84 0.14 85);
+  --wheel-2: oklch(0.80 0.10 190);
+  --wheel-3: oklch(0.78 0.13 40);
+  --wheel-4: oklch(0.84 0.09 230);
+  --wheel-5: oklch(0.85 0.13 130);
+  --wheel-6: oklch(0.82 0.10 350);
+  --wheel-7: oklch(0.86 0.11 65);
+  --wheel-8: oklch(0.84 0.09 165);
+  --wheel-9: oklch(0.82 0.08 300);
+  --wheel-10: oklch(0.87 0.08 55);
+  --wheel-11: oklch(0.84 0.08 210);
+  --wheel-12: oklch(0.80 0.11 15);
+  --chart-1: var(--wheel-1);
+  --chart-2: var(--wheel-2);
+  --chart-3: var(--wheel-3);
+  --chart-4: var(--wheel-4);
+  --chart-5: var(--wheel-5);
+  --sidebar: var(--card);
+  --sidebar-foreground: var(--foreground);
+  --sidebar-primary: var(--primary);
+  --sidebar-primary-foreground: var(--primary-foreground);
+  --sidebar-accent: var(--secondary);
+  --sidebar-accent-foreground: var(--secondary-foreground);
+  --sidebar-border: var(--border);
+  --sidebar-ring: var(--ring);
+}
+
+.dark {
+  --background: oklch(0.20 0.04 262);
+  --foreground: oklch(0.96 0.01 85);
+  --card: oklch(0.26 0.05 262);
+  --card-foreground: oklch(0.96 0.01 85);
+  --popover: oklch(0.26 0.05 262);
+  --popover-foreground: oklch(0.96 0.01 85);
+  --primary: oklch(0.83 0.15 80);
+  --primary-foreground: oklch(0.22 0.05 262);
+  --secondary: oklch(0.34 0.05 195);
+  --secondary-foreground: oklch(0.96 0.01 85);
+  --muted: oklch(0.32 0.04 262);
+  --muted-foreground: oklch(0.72 0.03 262);
+  --accent: oklch(0.68 0.18 30);
+  --accent-foreground: oklch(0.99 0.01 85);
+  --destructive: oklch(0.62 0.20 25);
+  --destructive-foreground: oklch(0.99 0.01 85);
+  --success: oklch(0.68 0.14 155);
+  --success-foreground: oklch(0.99 0.01 155);
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 16%);
+  --ring: oklch(0.72 0.12 78);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-display);
+    letter-spacing: -0.01em;
+  }
+}
+
+@layer components {
+  .stage-blob {
+    position: absolute;
+    border-radius: 9999px;
+    filter: blur(72px);
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  .game-card {
+    background-color: var(--color-card);
+    border: 2px solid var(--color-border);
+    border-radius: var(--radius-3xl);
+    box-shadow: 0 12px 40px -18px oklch(0.29 0.06 262 / 35%);
+  }
+}
